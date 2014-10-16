@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ckz:home|Door43 (ckz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ckz|d43-ckz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ckz/archive/master.zip|d43-ckz.zip]]
+
+**Recent Changes**
+{{changes>ns = ckz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ckz|Ethnologue data]]
+
